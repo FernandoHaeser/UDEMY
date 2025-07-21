@@ -1,6 +1,5 @@
-package UdemyPOO.application;
+package TrianguloPOO;
 
-import UdemyPOO.entities.Triangulo;
 import java.util.Scanner;
 
 public class program {

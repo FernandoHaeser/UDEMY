@@ -1,4 +1,4 @@
-package UdemyPOO.entities;
+package TrianguloPOO;
 
 public class Triangulo {
 	
